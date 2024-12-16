@@ -1,3 +1,3 @@
 function nextEscapeRoomPage() {
-  window.location.href = "https://44rmzx.csb.app/";
+  window.location.href = "https://wkrftz.csb.app/";
 }
