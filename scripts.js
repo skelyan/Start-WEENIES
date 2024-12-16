@@ -1,3 +1,3 @@
 function nextEscapeRoomPage() {
-  window.location.href = "https://wkrftz.csb.app/";
+  window.location.href = "https://1ucianabrennan.github.io/FinalEscapeRoom/";
 }
